@@ -1,4 +1,4 @@
-https://sanbercode.com/
+[![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
 
 ![SAMBERCODE](https://user-images.githubusercontent.com/44236850/84757664-9bd92d00-afee-11ea-930a-f0a48245784c.png)
 
