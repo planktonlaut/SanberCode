@@ -27,4 +27,4 @@
 
 ## License
 
-This project is unlicensed - Copyright (c) 2020 Plankton Laut
+This project is Unlicensed - Plankton Laut 2020
