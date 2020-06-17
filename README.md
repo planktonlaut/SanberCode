@@ -1,4 +1,4 @@
-[![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)[![Awesome Bootcamp](https://img.shields.io/badge/awesome-bootcamp-blue.svg)
+[![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)![Awesome Bootcamp](https://img.shields.io/badge/awesome-bootcamp-blue.svg)
 
 ![SAMBERCODE](https://user-images.githubusercontent.com/44236850/84757664-9bd92d00-afee-11ea-930a-f0a48245784c.png)
 
