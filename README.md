@@ -9,17 +9,17 @@
 <center>
 <table>
  <tr>
-<td align="center"><img src="SanberCode/etc/icons/html.png" width="120px;" height="120px;" alt="HTML"/><br/><b>HTML5</b></a><br /> 
+<td align="center"><img src="SanberCode/etc/icons/html.png" width="120px;" height="150px;" alt="HTML"/><br/><b>HTML5</b></a><br /> 
 
-<td align="center"><img src="SanberCode/etc/icons/css.png" width="120px;" height="120px;" alt="CSS"/><br/><b>CSS3</b></a><br />
+<td align="center"><img src="SanberCode/etc/icons/css.png" width="120px;" height="150px;" alt="CSS"/><br/><b>CSS3</b></a><br />
 
 
-<td align="center"><img src="SanberCode/etc/icons/js.png" width="120px;" height="120px;" alt="Java Script"/><br/><b>JavaScript</b></a><br />
+<td align="center"><img src="SanberCode/etc/icons/js.png" width="120px;" height="150px;" alt="Java Script"/><br/><b>JavaScript</b></a><br />
 
-<td align="center"><img src="SanberCode/etc/icons/bootstrap.png" width="120px;" height="120px;" alt="bootstrap"/><br/><b>Bootstrap</b></a><br/>
+<td align="center"><img src="SanberCode/etc/icons/bootstrap.png" width="120px;" height="150px;" alt="bootstrap"/><br/><b>Bootstrap</b></a><br/>
 
-<td align="center"><img src="SanberCode/etc/icons/laravel.png" width="120px;" height="120px;" alt="Laravel"/><br/><b>Laravel</b></a><br />  
-<td align="center" ><img src="SanberCode/etc/icons/vue.png"  width="120px;" height="120px;" alt="VUE"/><br/><b>Vue</b></a><br /> 
+<td align="center"><img src="SanberCode/etc/icons/laravel.png" width="120px;" height="150px;" alt="Laravel"/><br/><b>Laravel</b></a><br />  
+<td align="center" ><img src="SanberCode/etc/icons/vue.png"  width="120px;" height="150px;" alt="VUE"/><br/><b>Vue</b></a><br /> 
   </tr>
   </table>
 </center>
